@@ -1,0 +1,61 @@
+!!! Important: Project Names should not be substrings of other project names !!!
+
+===  Tags ===
+
+collab-meeting:,  - for meetings report
+holiday:,         - used for work done on holiday
+time-swap:,       - used when a projec swaps effort with another
+covid-19:,        - Time off related to covid-19
+childcare:,       - Time off related to childcare
+
+2020/05/
+    project:CarpentryMain            0.0 h
+    Time:work                       -0.0 h
+
+2020/05/
+    project:CarpentryFine            0.0 h
+    Time:work                       -0.0 h
+
+2020/05/
+    project:ProjectA                 0.0 h
+    Time:work                       -0.0 h
+
+2020/05/
+    project:ProjectB                 0 h
+    Time:work                       -0 h
+
+2020/05/
+    project:Tutorials:Haskell     0.0 h
+    Time:work                    -0.0 h
+
+2020/05/
+    project:Tutorials:Java               0.0 h
+    Time:work                           -0.0 h
+
+2020/05/
+    unbilled:Reading                 0.0 h
+    Time:work                       -0.0 h
+
+2020/05/
+    unbilled:Misc                   0 h
+    Time:work                      -0 h
+
+2020/05/
+    unbilled:Tickets                0 h
+    Time:work                      -0 h
+
+2020/05/ Covid-19 childcare. covid-19: childcare:
+    unbilled:Sick                    4 h
+    Time:out                        -4 h
+
+2020/05/ Sick
+    unbilled:Sick                    4 h
+    Time:out                        -4 h
+
+2020/05/
+    unbilled:vacation             8 h
+    Time:out                     -8 h
+
+2020/05/
+    project:ProjectA                 0.0 h
+    PriorTime:work                  -0.0 h
